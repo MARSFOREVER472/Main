@@ -11,6 +11,11 @@ Animal::Animal(string nameAnimal, int age, string type)
 	this->type = type;
 }
 
+Animal::~Animal()
+{
+	// ADVERTENCIA: ESTE ES EL DESTRUCTOR DE LA CLASE O EL GARBAGE COLLECTOR O RECOLECTOR DE BASURA.
+}
+
 // MÉTODO QUE VIENE DESPUÉS DE LA CREACIÓN DEL CONSTRUCTOR DE LA CLASE.
 
 string Animal::getNameAnimal()

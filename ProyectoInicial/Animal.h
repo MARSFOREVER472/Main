@@ -27,7 +27,8 @@ public:
 
 	// MÉTODOS ASOCIADOS A LA CLASE (PÚBLICOS):
 
-	Animal(string nameAnimal, int age, string type);
+	Animal(string nameAnimal, int age, string type); // CONSTRUCTOR DE LA CLASE.
+	~Animal(); // DESTRUCTOR DE LA CLASE.
 	string getNameAnimal();
 	void setNameAnimal(string nameAnimal);
 };
