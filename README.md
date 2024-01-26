@@ -1,6 +1,6 @@
 # Main
 
-_Aplicación que trabajaremos principalmente en C++ para aplicar algunas materias vistas en el curso "Estructura de Datos"._
+**_Aplicación que trabajaremos principalmente en C++ para aplicar algunas materias vistas en el curso "Estructura de Datos"._**
 
 _Kind Regards_
 
