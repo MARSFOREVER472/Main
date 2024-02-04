@@ -4,6 +4,10 @@
 
 _El proyecto se contempló mediante una clase a modo de prueba más el menú principal de la solución del proyecto._
 
+- Animal.cpp (Cuerpo de la clase).
+- Animal.h (Encabezado de la clase Animal).
+- Main.cpp (Menú principal de una clase o más dentro del proyecto).
+
 **_Kind Regards_**
 
 **_MARSFOREVER472_**
