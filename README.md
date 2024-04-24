@@ -4,7 +4,7 @@
 
 **_El proyecto se contempló mediante una clase a modo de prueba más el menú principal de la solución del proyecto._**
 
-- Animal.cpp (Cuerpo de la clase).
+- _Animal.cpp (Cuerpo de la clase)._
 - Animal.h (Encabezado de la clase Animal).
 - ProyectoInicial.cpp (Menú principal de una clase o más dentro del proyecto).
 
