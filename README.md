@@ -6,7 +6,7 @@
 
 - **_Animal.cpp (Cuerpo de la clase)._**
 - **_Animal.h (Encabezado de la clase Animal)._**
-- _ProyectoInicial.cpp (Menú principal de una clase o más dentro del proyecto)._
+- **_ProyectoInicial.cpp (Menú principal de una clase o más dentro del proyecto)._**
 
 **_Kind Regards_**
 
